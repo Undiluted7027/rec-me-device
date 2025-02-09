@@ -1,6 +1,10 @@
 node_modules
 gsmarena/*.json
-__pycache__/
+__pycache__
 *.pyc
 *.pyo
 *.pyd
+*.json
+faiss_index_hf/
+.vscode
+.scrapy

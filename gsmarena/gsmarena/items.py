@@ -13,3 +13,9 @@ class DeviceItem(scrapy.Item):
     name = scrapy.Field()
     url = scrapy.Field()
     specifications = scrapy.Field()
+
+class DeviceSpecsItem(scrapy.Item):
+    brand = scrapy.Field()
+    model = scrapy.Field()
+    specifications = scrapy.Field()
+    url = scrapy.Field()
