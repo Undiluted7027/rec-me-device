@@ -130,9 +130,9 @@ embedding_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vector_store = FAISS.load_local(
     "faiss_index_hf", embedding_model, allow_dangerous_deserialization=True
 )
-query = "What is the battery capacity of device iPad Air?"
+query = "What is a tablet/ipad with a great battery life?"
 
-# # Retrieve the top k most similar chunks (e.g., top 4)
+# # # Retrieve the top k most similar chunks (e.g., top 4)
 retrieved_docs = vector_store.similarity_search(query, k=4)
 
 # # Print out the retrieved chunks along with their metadata

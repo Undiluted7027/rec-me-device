@@ -478,6 +478,7 @@ def scrape_data(data, start_brand_idx=None, start_device_idx=None, overwrite=Fal
                     specs = getPhoneSpecs(device["link"], session)
                     device.update(specs)
                     sleep(random.uniform(0.5, 1.5))
+                    save_progress(data, brand_idx, device_idx)
 
                 except Exception as e:
                     save_progress(data, brand_idx, device_idx, error=e)
@@ -528,5 +529,5 @@ def start_scraping_from_indexes(
 
 # writeData()
 # data = loadJSON("modified_data.json")
-start_scraping_from_indexes(21, 39, overwrite=False)
+start_scraping_from_indexes(94, 60, overwrite=False)
 # print(getCurrentBrandAndDevice(data['brands'], "Alcatel", "OneTouch Pop 2 (4.5)"))
