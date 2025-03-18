@@ -1,0 +1,21 @@
+{
+    "brand_name": "Thuraya",
+    "brand_url": "thuraya-phones-49.php",
+    "total_devices": 2,
+    "devices": [
+        {
+            "name": "One",
+            "url": "thuraya_one-13660.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/thuraya1.jpg",
+            "description": "Thuraya One Android smartphone. Announced Jan 2025. Features 6.67″ display, QCM4490 chipset, 3500 mAh battery, 128 GB storage, 6 GB RAM, Corning Gorilla Glass 5.",
+            "specifications": {}
+        },
+        {
+            "name": "SG-2520",
+            "url": "thuraya_sg_2520-1925.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/thuraya-sg2520.gif",
+            "description": "Thuraya SG-2520 smartphone. Announced Mar 2007. Features 1.9″ display, 1.3 MP primary camera, 1280 mAh battery, 128 MB storage.",
+            "specifications": {}
+        }
+    ]
+}

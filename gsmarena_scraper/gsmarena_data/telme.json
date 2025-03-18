@@ -1,0 +1,56 @@
+{
+    "brand_name": "Tel.Me.",
+    "brand_url": "tel_me_-phones-21.php",
+    "total_devices": 7,
+    "devices": [
+        {
+            "name": "T939",
+            "url": "tel_me__t939-695.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt939.gif",
+            "description": "Tel.Me. T939 Windows Mobile smartphone. Announced Q1 2004. Features TFT resistive touchscreen, 256K colors (65K effective) display, 2 MP primary camera, 800 mAh battery.",
+            "specifications": {}
+        },
+        {
+            "name": "T918",
+            "url": "tel_me__t918-603.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt918.gif",
+            "description": "Tel.Me. T918 phone. Announced 2003. Features CSTN, 65K colors display, 720 mAh battery, 6 MB storage.",
+            "specifications": {}
+        },
+        {
+            "name": "T919i",
+            "url": "tel_me__t919i-529.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt919i.gif",
+            "description": "Tel.Me. T919i phone. Announced 2003. Features CSTN resistive touchscreen, 32K colors display, 1000 mAh battery, 6 MB storage.",
+            "specifications": {}
+        },
+        {
+            "name": "T919",
+            "url": "tel_me__t919-389.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt919.gif",
+            "description": "Tel.Me. T919 phone. Announced 2003. Features CSTN resistive touchscreen, 32K colors display, 900 mAh battery.",
+            "specifications": {}
+        },
+        {
+            "name": "T910",
+            "url": "tel_me__t910-388.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt910.gif",
+            "description": "Tel.Me. T910 phone. Announced 2002. Features CSTN, 4096 colors display, 600 mAh battery.",
+            "specifications": {}
+        },
+        {
+            "name": "T909c",
+            "url": "tel_me__t909c-387.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt909c.gif",
+            "description": "Tel.Me. T909c phone. Features Monochrome graphic display, 600 mAh battery.",
+            "specifications": {}
+        },
+        {
+            "name": "T909",
+            "url": "tel_me__t909-386.php",
+            "image_url": "https://fdn2.gsmarena.com/vv/bigpic/tmt909.gif",
+            "description": "Tel.Me. T909 phone. Features Monochrome graphic display, 600 mAh battery.",
+            "specifications": {}
+        }
+    ]
+}

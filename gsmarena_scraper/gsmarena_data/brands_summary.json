@@ -1,0 +1,752 @@
+[
+    {
+        "brand_name": "Acer",
+        "device_count": 100,
+        "devices_scraped": 50,
+        "brand_url": "acer-phones-59.php"
+    },
+    {
+        "brand_name": "alcatel",
+        "device_count": 409,
+        "devices_scraped": 0,
+        "brand_url": "alcatel-phones-5.php"
+    },
+    {
+        "brand_name": "Allview",
+        "device_count": 157,
+        "devices_scraped": 0,
+        "brand_url": "allview-phones-88.php"
+    },
+    {
+        "brand_name": "Amazon",
+        "device_count": 25,
+        "devices_scraped": 0,
+        "brand_url": "amazon-phones-76.php"
+    },
+    {
+        "brand_name": "Amoi",
+        "device_count": 47,
+        "devices_scraped": 0,
+        "brand_url": "amoi-phones-28.php"
+    },
+    {
+        "brand_name": "Apple",
+        "device_count": 131,
+        "devices_scraped": 0,
+        "brand_url": "apple-phones-48.php"
+    },
+    {
+        "brand_name": "Archos",
+        "device_count": 43,
+        "devices_scraped": 0,
+        "brand_url": "archos-phones-90.php"
+    },
+    {
+        "brand_name": "Asus",
+        "device_count": 207,
+        "devices_scraped": 0,
+        "brand_url": "asus-phones-46.php"
+    },
+    {
+        "brand_name": "AT&T",
+        "device_count": 4,
+        "devices_scraped": 0,
+        "brand_url": "at&t-phones-57.php"
+    },
+    {
+        "brand_name": "Benefon",
+        "device_count": 9,
+        "devices_scraped": 0,
+        "brand_url": "benefon-phones-15.php"
+    },
+    {
+        "brand_name": "BenQ",
+        "device_count": 35,
+        "devices_scraped": 0,
+        "brand_url": "benq-phones-31.php"
+    },
+    {
+        "brand_name": "BenQ-Siemens",
+        "device_count": 28,
+        "devices_scraped": 0,
+        "brand_url": "benq_siemens-phones-42.php"
+    },
+    {
+        "brand_name": "Bird",
+        "device_count": 61,
+        "devices_scraped": 0,
+        "brand_url": "bird-phones-34.php"
+    },
+    {
+        "brand_name": "BlackBerry",
+        "device_count": 92,
+        "devices_scraped": 0,
+        "brand_url": "blackberry-phones-36.php"
+    },
+    {
+        "brand_name": "Blackview",
+        "device_count": 92,
+        "devices_scraped": 0,
+        "brand_url": "blackview-phones-116.php"
+    },
+    {
+        "brand_name": "BLU",
+        "device_count": 369,
+        "devices_scraped": 0,
+        "brand_url": "blu-phones-67.php"
+    },
+    {
+        "brand_name": "Bosch",
+        "device_count": 10,
+        "devices_scraped": 0,
+        "brand_url": "bosch-phones-10.php"
+    },
+    {
+        "brand_name": "BQ",
+        "device_count": 20,
+        "devices_scraped": 0,
+        "brand_url": "bq-phones-108.php"
+    },
+    {
+        "brand_name": "Casio",
+        "device_count": 5,
+        "devices_scraped": 0,
+        "brand_url": "casio-phones-77.php"
+    },
+    {
+        "brand_name": "Cat",
+        "device_count": 22,
+        "devices_scraped": 0,
+        "brand_url": "cat-phones-89.php"
+    },
+    {
+        "brand_name": "Celkon",
+        "device_count": 229,
+        "devices_scraped": 0,
+        "brand_url": "celkon-phones-75.php"
+    },
+    {
+        "brand_name": "Chea",
+        "device_count": 12,
+        "devices_scraped": 0,
+        "brand_url": "chea-phones-24.php"
+    },
+    {
+        "brand_name": "Coolpad",
+        "device_count": 52,
+        "devices_scraped": 0,
+        "brand_url": "coolpad-phones-105.php"
+    },
+    {
+        "brand_name": "Cubot",
+        "device_count": 83,
+        "devices_scraped": 0,
+        "brand_url": "cubot-phones-130.php"
+    },
+    {
+        "brand_name": "Dell",
+        "device_count": 20,
+        "devices_scraped": 0,
+        "brand_url": "dell-phones-61.php"
+    },
+    {
+        "brand_name": "Doogee",
+        "device_count": 110,
+        "devices_scraped": 0,
+        "brand_url": "doogee-phones-129.php"
+    },
+    {
+        "brand_name": "Emporia",
+        "device_count": 15,
+        "devices_scraped": 0,
+        "brand_url": "emporia-phones-93.php"
+    },
+    {
+        "brand_name": "Energizer",
+        "device_count": 78,
+        "devices_scraped": 0,
+        "brand_url": "energizer-phones-106.php"
+    },
+    {
+        "brand_name": "Ericsson",
+        "device_count": 40,
+        "devices_scraped": 0,
+        "brand_url": "ericsson-phones-2.php"
+    },
+    {
+        "brand_name": "Eten",
+        "device_count": 22,
+        "devices_scraped": 0,
+        "brand_url": "eten-phones-40.php"
+    },
+    {
+        "brand_name": "Fairphone",
+        "device_count": 4,
+        "devices_scraped": 0,
+        "brand_url": "fairphone-phones-127.php"
+    },
+    {
+        "brand_name": "Fujitsu Siemens",
+        "device_count": 2,
+        "devices_scraped": 0,
+        "brand_url": "fujitsu_siemens-phones-50.php"
+    },
+    {
+        "brand_name": "Garmin-Asus",
+        "device_count": 5,
+        "devices_scraped": 0,
+        "brand_url": "garmin_asus-phones-65.php"
+    },
+    {
+        "brand_name": "Gigabyte",
+        "device_count": 63,
+        "devices_scraped": 0,
+        "brand_url": "gigabyte-phones-47.php"
+    },
+    {
+        "brand_name": "Gionee",
+        "device_count": 95,
+        "devices_scraped": 0,
+        "brand_url": "gionee-phones-92.php"
+    },
+    {
+        "brand_name": "Google",
+        "device_count": 34,
+        "devices_scraped": 0,
+        "brand_url": "google-phones-107.php"
+    },
+    {
+        "brand_name": "Haier",
+        "device_count": 59,
+        "devices_scraped": 0,
+        "brand_url": "haier-phones-33.php"
+    },
+    {
+        "brand_name": "HMD",
+        "device_count": 22,
+        "devices_scraped": 0,
+        "brand_url": "hmd-phones-133.php"
+    },
+    {
+        "brand_name": "Honor",
+        "device_count": 247,
+        "devices_scraped": 0,
+        "brand_url": "honor-phones-121.php"
+    },
+    {
+        "brand_name": "HP",
+        "device_count": 41,
+        "devices_scraped": 0,
+        "brand_url": "hp-phones-41.php"
+    },
+    {
+        "brand_name": "HTC",
+        "device_count": 290,
+        "devices_scraped": 0,
+        "brand_url": "htc-phones-45.php"
+    },
+    {
+        "brand_name": "Huawei",
+        "device_count": 471,
+        "devices_scraped": 0,
+        "brand_url": "huawei-phones-58.php"
+    },
+    {
+        "brand_name": "i-mate",
+        "device_count": 34,
+        "devices_scraped": 0,
+        "brand_url": "i_mate-phones-35.php"
+    },
+    {
+        "brand_name": "i-mobile",
+        "device_count": 37,
+        "devices_scraped": 0,
+        "brand_url": "i_mobile-phones-52.php"
+    },
+    {
+        "brand_name": "Icemobile",
+        "device_count": 61,
+        "devices_scraped": 0,
+        "brand_url": "icemobile-phones-69.php"
+    },
+    {
+        "brand_name": "Infinix",
+        "device_count": 144,
+        "devices_scraped": 0,
+        "brand_url": "infinix-phones-119.php"
+    },
+    {
+        "brand_name": "Innostream",
+        "device_count": 18,
+        "devices_scraped": 0,
+        "brand_url": "innostream-phones-29.php"
+    },
+    {
+        "brand_name": "iNQ",
+        "device_count": 5,
+        "devices_scraped": 0,
+        "brand_url": "inq-phones-60.php"
+    },
+    {
+        "brand_name": "Intex",
+        "device_count": 15,
+        "devices_scraped": 0,
+        "brand_url": "intex-phones-102.php"
+    },
+    {
+        "brand_name": "itel",
+        "device_count": 43,
+        "devices_scraped": 0,
+        "brand_url": "itel-phones-131.php"
+    },
+    {
+        "brand_name": "Jolla",
+        "device_count": 3,
+        "devices_scraped": 0,
+        "brand_url": "jolla-phones-84.php"
+    },
+    {
+        "brand_name": "Karbonn",
+        "device_count": 60,
+        "devices_scraped": 0,
+        "brand_url": "karbonn-phones-83.php"
+    },
+    {
+        "brand_name": "Kyocera",
+        "device_count": 28,
+        "devices_scraped": 0,
+        "brand_url": "kyocera-phones-17.php"
+    },
+    {
+        "brand_name": "Lava",
+        "device_count": 158,
+        "devices_scraped": 0,
+        "brand_url": "lava-phones-94.php"
+    },
+    {
+        "brand_name": "LeEco",
+        "device_count": 9,
+        "devices_scraped": 0,
+        "brand_url": "leeco-phones-109.php"
+    },
+    {
+        "brand_name": "Lenovo",
+        "device_count": 251,
+        "devices_scraped": 0,
+        "brand_url": "lenovo-phones-73.php"
+    },
+    {
+        "brand_name": "LG",
+        "device_count": 667,
+        "devices_scraped": 0,
+        "brand_url": "lg-phones-20.php"
+    },
+    {
+        "brand_name": "Maxon",
+        "device_count": 31,
+        "devices_scraped": 0,
+        "brand_url": "maxon-phones-14.php"
+    },
+    {
+        "brand_name": "Maxwest",
+        "device_count": 41,
+        "devices_scraped": 0,
+        "brand_url": "maxwest-phones-87.php"
+    },
+    {
+        "brand_name": "Meizu",
+        "device_count": 79,
+        "devices_scraped": 0,
+        "brand_url": "meizu-phones-74.php"
+    },
+    {
+        "brand_name": "Micromax",
+        "device_count": 289,
+        "devices_scraped": 0,
+        "brand_url": "micromax-phones-66.php"
+    },
+    {
+        "brand_name": "Microsoft",
+        "device_count": 32,
+        "devices_scraped": 0,
+        "brand_url": "microsoft-phones-64.php"
+    },
+    {
+        "brand_name": "Mitac",
+        "device_count": 12,
+        "devices_scraped": 0,
+        "brand_url": "mitac-phones-25.php"
+    },
+    {
+        "brand_name": "Mitsubishi",
+        "device_count": 25,
+        "devices_scraped": 0,
+        "brand_url": "mitsubishi-phones-8.php"
+    },
+    {
+        "brand_name": "Modu",
+        "device_count": 8,
+        "devices_scraped": 0,
+        "brand_url": "modu-phones-63.php"
+    },
+    {
+        "brand_name": "Motorola",
+        "device_count": 640,
+        "devices_scraped": 0,
+        "brand_url": "motorola-phones-4.php"
+    },
+    {
+        "brand_name": "MWg",
+        "device_count": 5,
+        "devices_scraped": 0,
+        "brand_url": "mwg-phones-56.php"
+    },
+    {
+        "brand_name": "NEC",
+        "device_count": 73,
+        "devices_scraped": 0,
+        "brand_url": "nec-phones-12.php"
+    },
+    {
+        "brand_name": "Neonode",
+        "device_count": 3,
+        "devices_scraped": 0,
+        "brand_url": "neonode-phones-22.php"
+    },
+    {
+        "brand_name": "NIU",
+        "device_count": 30,
+        "devices_scraped": 0,
+        "brand_url": "niu-phones-79.php"
+    },
+    {
+        "brand_name": "Nokia",
+        "device_count": 589,
+        "devices_scraped": 0,
+        "brand_url": "nokia-phones-1.php"
+    },
+    {
+        "brand_name": "Nothing",
+        "device_count": 7,
+        "devices_scraped": 0,
+        "brand_url": "nothing-phones-128.php"
+    },
+    {
+        "brand_name": "Nvidia",
+        "device_count": 3,
+        "devices_scraped": 0,
+        "brand_url": "nvidia-phones-97.php"
+    },
+    {
+        "brand_name": "O2",
+        "device_count": 45,
+        "devices_scraped": 0,
+        "brand_url": "o2-phones-30.php"
+    },
+    {
+        "brand_name": "OnePlus",
+        "device_count": 84,
+        "devices_scraped": 0,
+        "brand_url": "oneplus-phones-95.php"
+    },
+    {
+        "brand_name": "Oppo",
+        "device_count": 331,
+        "devices_scraped": 0,
+        "brand_url": "oppo-phones-82.php"
+    },
+    {
+        "brand_name": "Orange",
+        "device_count": 19,
+        "devices_scraped": 0,
+        "brand_url": "orange-phones-71.php"
+    },
+    {
+        "brand_name": "Oscal",
+        "device_count": 25,
+        "devices_scraped": 0,
+        "brand_url": "oscal-phones-134.php"
+    },
+    {
+        "brand_name": "Oukitel",
+        "device_count": 66,
+        "devices_scraped": 0,
+        "brand_url": "oukitel-phones-132.php"
+    },
+    {
+        "brand_name": "Palm",
+        "device_count": 17,
+        "devices_scraped": 0,
+        "brand_url": "palm-phones-27.php"
+    },
+    {
+        "brand_name": "Panasonic",
+        "device_count": 123,
+        "devices_scraped": 0,
+        "brand_url": "panasonic-phones-6.php"
+    },
+    {
+        "brand_name": "Pantech",
+        "device_count": 72,
+        "devices_scraped": 0,
+        "brand_url": "pantech-phones-32.php"
+    },
+    {
+        "brand_name": "Parla",
+        "device_count": 10,
+        "devices_scraped": 0,
+        "brand_url": "parla-phones-81.php"
+    },
+    {
+        "brand_name": "Philips",
+        "device_count": 233,
+        "devices_scraped": 0,
+        "brand_url": "philips-phones-11.php"
+    },
+    {
+        "brand_name": "Plum",
+        "device_count": 113,
+        "devices_scraped": 0,
+        "brand_url": "plum-phones-72.php"
+    },
+    {
+        "brand_name": "Posh",
+        "device_count": 30,
+        "devices_scraped": 0,
+        "brand_url": "posh-phones-101.php"
+    },
+    {
+        "brand_name": "Prestigio",
+        "device_count": 56,
+        "devices_scraped": 0,
+        "brand_url": "prestigio-phones-86.php"
+    },
+    {
+        "brand_name": "QMobile",
+        "device_count": 90,
+        "devices_scraped": 0,
+        "brand_url": "qmobile-phones-103.php"
+    },
+    {
+        "brand_name": "Qtek",
+        "device_count": 21,
+        "devices_scraped": 0,
+        "brand_url": "qtek-phones-38.php"
+    },
+    {
+        "brand_name": "Razer",
+        "device_count": 2,
+        "devices_scraped": 0,
+        "brand_url": "razer-phones-117.php"
+    },
+    {
+        "brand_name": "Realme",
+        "device_count": 234,
+        "devices_scraped": 0,
+        "brand_url": "realme-phones-118.php"
+    },
+    {
+        "brand_name": "Sagem",
+        "device_count": 120,
+        "devices_scraped": 0,
+        "brand_url": "sagem-phones-13.php"
+    },
+    {
+        "brand_name": "Samsung",
+        "device_count": 1415,
+        "devices_scraped": 0,
+        "brand_url": "samsung-phones-9.php"
+    },
+    {
+        "brand_name": "Sendo",
+        "device_count": 19,
+        "devices_scraped": 0,
+        "brand_url": "sendo-phones-18.php"
+    },
+    {
+        "brand_name": "Sewon",
+        "device_count": 25,
+        "devices_scraped": 0,
+        "brand_url": "sewon-phones-26.php"
+    },
+    {
+        "brand_name": "Sharp",
+        "device_count": 79,
+        "devices_scraped": 0,
+        "brand_url": "sharp-phones-23.php"
+    },
+    {
+        "brand_name": "Siemens",
+        "device_count": 94,
+        "devices_scraped": 0,
+        "brand_url": "siemens-phones-3.php"
+    },
+    {
+        "brand_name": "Sonim",
+        "device_count": 22,
+        "devices_scraped": 0,
+        "brand_url": "sonim-phones-54.php"
+    },
+    {
+        "brand_name": "Sony",
+        "device_count": 160,
+        "devices_scraped": 0,
+        "brand_url": "sony-phones-7.php"
+    },
+    {
+        "brand_name": "Sony Ericsson",
+        "device_count": 188,
+        "devices_scraped": 0,
+        "brand_url": "sony_ericsson-phones-19.php"
+    },
+    {
+        "brand_name": "Spice",
+        "device_count": 120,
+        "devices_scraped": 0,
+        "brand_url": "spice-phones-68.php"
+    },
+    {
+        "brand_name": "T-Mobile",
+        "device_count": 66,
+        "devices_scraped": 0,
+        "brand_url": "t_mobile-phones-55.php"
+    },
+    {
+        "brand_name": "TCL",
+        "device_count": 80,
+        "devices_scraped": 0,
+        "brand_url": "tcl-phones-123.php"
+    },
+    {
+        "brand_name": "Tecno",
+        "device_count": 158,
+        "devices_scraped": 0,
+        "brand_url": "tecno-phones-120.php"
+    },
+    {
+        "brand_name": "Tel.Me.",
+        "device_count": 7,
+        "devices_scraped": 7,
+        "brand_url": "tel_me_-phones-21.php"
+    },
+    {
+        "brand_name": "Telit",
+        "device_count": 30,
+        "devices_scraped": 30,
+        "brand_url": "telit-phones-16.php"
+    },
+    {
+        "brand_name": "Thuraya",
+        "device_count": 2,
+        "devices_scraped": 2,
+        "brand_url": "thuraya-phones-49.php"
+    },
+    {
+        "brand_name": "Toshiba",
+        "device_count": 35,
+        "devices_scraped": 0,
+        "brand_url": "toshiba-phones-44.php"
+    },
+    {
+        "brand_name": "Ulefone",
+        "device_count": 113,
+        "devices_scraped": 113,
+        "brand_url": "ulefone-phones-124.php"
+    },
+    {
+        "brand_name": "Umidigi",
+        "device_count": 71,
+        "devices_scraped": 50,
+        "brand_url": "umidigi-phones-135.php"
+    },
+    {
+        "brand_name": "Unnecto",
+        "device_count": 30,
+        "devices_scraped": 30,
+        "brand_url": "unnecto-phones-91.php"
+    },
+    {
+        "brand_name": "Vertu",
+        "device_count": 17,
+        "devices_scraped": 0,
+        "brand_url": "vertu-phones-39.php"
+    },
+    {
+        "brand_name": "verykool",
+        "device_count": 139,
+        "devices_scraped": 50,
+        "brand_url": "verykool-phones-70.php"
+    },
+    {
+        "brand_name": "vivo",
+        "device_count": 499,
+        "devices_scraped": 498,
+        "brand_url": "vivo-phones-98.php"
+    },
+    {
+        "brand_name": "VK Mobile",
+        "device_count": 31,
+        "devices_scraped": 0,
+        "brand_url": "vk_mobile-phones-37.php"
+    },
+    {
+        "brand_name": "Vodafone",
+        "device_count": 87,
+        "devices_scraped": 87,
+        "brand_url": "vodafone-phones-53.php"
+    },
+    {
+        "brand_name": "Wiko",
+        "device_count": 100,
+        "devices_scraped": 50,
+        "brand_url": "wiko-phones-96.php"
+    },
+    {
+        "brand_name": "WND",
+        "device_count": 5,
+        "devices_scraped": 0,
+        "brand_url": "wnd-phones-51.php"
+    },
+    {
+        "brand_name": "XCute",
+        "device_count": 4,
+        "devices_scraped": 4,
+        "brand_url": "xcute-phones-43.php"
+    },
+    {
+        "brand_name": "Xiaomi",
+        "device_count": 438,
+        "devices_scraped": 436,
+        "brand_url": "xiaomi-phones-80.php"
+    },
+    {
+        "brand_name": "XOLO",
+        "device_count": 81,
+        "devices_scraped": 0,
+        "brand_url": "xolo-phones-85.php"
+    },
+    {
+        "brand_name": "Yezz",
+        "device_count": 113,
+        "devices_scraped": 113,
+        "brand_url": "yezz-phones-78.php"
+    },
+    {
+        "brand_name": "Yota",
+        "device_count": 3,
+        "devices_scraped": 3,
+        "brand_url": "yota-phones-99.php"
+    },
+    {
+        "brand_name": "YU",
+        "device_count": 13,
+        "devices_scraped": 13,
+        "brand_url": "yu-phones-100.php"
+    },
+    {
+        "brand_name": "ZTE",
+        "device_count": 401,
+        "devices_scraped": 0,
+        "brand_url": "zte-phones-62.php"
+    }
+]
